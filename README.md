@@ -1,1 +1,2 @@
-# art-practice
+# Ссылка на макет
+https://www.figma.com/
