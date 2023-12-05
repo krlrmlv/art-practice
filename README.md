@@ -1,5 +1,7 @@
-# Ссылка на макет
+#Арт практика
+
+## Ссылка на макет
 https://www.figma.com/
 
-# Ссылка на сайт
+## Ссылка на сайт
 https://krlrmlv.github.io/art-practice/
