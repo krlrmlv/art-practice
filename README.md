@@ -1,7 +1,9 @@
 # Арт практика
 
 ## Ссылка на макет
-https://www.figma.com/
+<a href="[[http://example.com/](https://krlrmlv.github.io/art-practice/)](https://www.figma.com/
+)" target="_blank">https://www.figma.com</a>
 
 ## Ссылка на сайт
-https://krlrmlv.github.io/art-practice/
+<a href="[http://example.com/](https://krlrmlv.github.io/art-practice/)" target="_blank">https://krlrmlv.github.io/art-practice</a>
+
